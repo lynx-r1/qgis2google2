@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/qgis2google2/!svn/ver/28
+END
+qgsgoogleearthtool.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/qgis2google2/!svn/ver/20/qgsgoogleearthtool.h
+END
+qgskmlsettingsdialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/qgis2google2/!svn/ver/22/qgskmlsettingsdialog.cpp
+END
+qgis2google.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/qgis2google2/!svn/ver/22/qgis2google.cpp
+END
+qgskmlsettingsdialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/qgis2google2/!svn/ver/21/qgskmlsettingsdialog.h
+END
+qgis2google.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/qgis2google2/!svn/ver/11/qgis2google.qrc
+END
+qgskmlsettingsdialogbase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/qgis2google2/!svn/ver/23/qgskmlsettingsdialogbase.ui
+END
+qgskmlconverter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/qgis2google2/!svn/ver/24/qgskmlconverter.cpp
+END
+qgis2google.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/qgis2google2/!svn/ver/9/qgis2google.h
+END
+qgsgoogleearthtool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/qgis2google2/!svn/ver/24/qgsgoogleearthtool.cpp
+END
+qgis2googleplugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/qgis2google2/!svn/ver/28/qgis2googleplugin.dll
+END
+qgskmlconverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/qgis2google2/!svn/ver/24/qgskmlconverter.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/qgis2google2/!svn/ver/13/CMakeLists.txt
+END
